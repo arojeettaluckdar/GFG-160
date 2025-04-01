@@ -1,6 +1,6 @@
 /* 👤 Author: Arojeet Talukdar
  📅 Date: 01-04-2025
- 🏷️ Version: 1.0
+ 🏷️ Day : 1.0
  📌 Language: Java 
 */
 class Solution {
